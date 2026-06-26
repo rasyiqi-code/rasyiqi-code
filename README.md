@@ -1,24 +1,22 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontColor=FFD700&height=250&section=header&text=Halo,%20Saya%20Rasyiqi!&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontColor=FFD700&height=250&section=header&text=Hi,%20I'm%20Rasyiqi!&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 <div align="center">
   <a href="https://github.com/rasyiqi-code">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Tech+Educator+&+Author;Menertawakan+Batasan,+Merayakan+Peluang" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Tech+Educator+&+Author;Laugh+at+Limits,+Celebrate+Opportunities" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-### 👨‍💻 Tentang Saya
+### 👨‍💻 About Me
 
-Halo! Saya **Rasyiqi**, seorang *Full-Stack Web & Application Developer*, praktisi teknologi, dan penulis buku asal Jawa Timur. Berkarier sejak 2015, saya telah membantu lebih dari 1.000 klien membangun solusi digital mereka.
+Hello! I'm **Rasyiqi**, a *Full-Stack Web & Application Developer*, author & entrepreneur. Active since 2015, I have helped over 1,000 clients build their digital solutions.
 
-- 🏢 **Founder & Developer** di **[Crediblemark](https://www.linkedin.com/in/rasyiqi)** (induk dari [@crediblemark-official](https://github.com/crediblemark-official)).
-- 🎓 **Pendidikan**: Universitas Trunojoyo Madura (UTM).
-- 💡 **Keahlian**: Ekosistem *Front-End* & *Back-End*, spesialisasi WordPress & pengembangan sistem kustom.
-- 📚 **Penulis Buku**: *"Membangun Bisnis Kreatif dari Nol"* & *"Bisnis di Toko Online"*.
-- 🎯 **Filosofi**: *"Menertawakan Batasan, Merayakan Peluang"*.
+- 🏢 **Founder & Developer** at **[Crediblemark](https://www.linkedin.com/in/rasyiqi)** (parent of [@crediblemark-official](https://github.com/crediblemark-official)).
+- 💡 **Expertise**: *Front-End* & *Back-End* ecosystems, specializing in WordPress & custom system development.
+- 🎯 **Philosophy**: *"Laugh at Limits, Celebrate Opportunities"*.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/rasyiqi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn"></a>
@@ -29,7 +27,7 @@ Halo! Saya **Rasyiqi**, seorang *Full-Stack Web & Application Developer*, prakti
 
 ---
 
-### 🛠️ Tech Stack & Alat
+### 🛠️ Tech Stack & Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -39,7 +37,7 @@ Halo! Saya **Rasyiqi**, seorang *Full-Stack Web & Application Developer*, prakti
 
 ---
 
-### 📊 Statistik GitHub
+### 📊 GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rasyiqi-code&show_icons=true&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&bg_color=000000&hide_border=true" alt="GitHub Stats" />
@@ -54,5 +52,5 @@ Halo! Saya **Rasyiqi**, seorang *Full-Stack Web & Application Developer*, prakti
 
 ---
 <div align="center">
-  <i>"Menertawakan Batasan, Merayakan Peluang"</i>
+  <i>"Laugh at Limits, Celebrate Opportunities"</i>
 </div>
