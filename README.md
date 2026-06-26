@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Halo,%20Saya%20Rasyiqi!&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontColor=FFD700&height=250&section=header&text=Halo,%20Saya%20Rasyiqi!&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 <div align="center">
   <a href="https://github.com/rasyiqi-code">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Membangun+Solusi+Digital;Creative+Thinker;Selalu+Belajar+Hal+Baru" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Membangun+Solusi+Digital;Creative+Thinker;Selalu+Belajar+Hal+Baru" alt="Typing SVG" />
   </a>
 </div>
 
@@ -32,14 +32,14 @@
 ### 📊 Statistik GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rasyiqi-code&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasyiqi-code&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rasyiqi-code&show_icons=true&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700&bg_color=000000&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rasyiqi-code&ring=FFD700&fire=FFD700&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFD700&sideLabels=FFFFFF&dates=FFFFFF&hide_border=true&background=000000" alt="GitHub Streak" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasyiqi-code&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rasyiqi-code&layout=compact&title_color=FFD700&text_color=FFFFFF&bg_color=000000&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
