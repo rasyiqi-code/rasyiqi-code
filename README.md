@@ -15,7 +15,7 @@
 Hello! I'm **Rasyiqi**, an **AI-Native Engineer**, author, & entrepreneur. Rooted in a solid Full-Stack background, I craft seamless digital experiences—bridging intuitive Frontend aesthetics (UI/UX) with robust Backend architectures. Active since 2015, I have empowered over 1,000 clients to bring their digital visions to life.
 
 - 🏢 **Founder & Developer** at **[Crediblemark](https://www.linkedin.com/in/rasyiqi)** (parent of [@crediblemark-official](https://github.com/crediblemark-official)).
-- 💡 **Expertise**: *Front-End* & *Back-End* ecosystems, specializing in WordPress & custom system development.
+- 💡 **Expertise**: *Front-End* & *Back-End* ecosystems, specializing in AI-driven solutions, intelligent integrations, & scalable custom architectures.
 - 🎯 **Philosophy**: *"Laugh at Limits, Celebrate Opportunities"*.
 
 <p align="left">
