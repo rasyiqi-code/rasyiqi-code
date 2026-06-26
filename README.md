@@ -18,7 +18,7 @@ Hello! I'm **Rasyiqi**, an **AI-Native Engineer**, author, & entrepreneur. Roote
 - 💡 **Expertise**: *Front-End* & *Back-End* ecosystems, specializing in AI-driven solutions, intelligent integrations, & scalable custom architectures.
 - 🎯 **Philosophy**: *"Laugh at Limits, Celebrate Opportunities"*.
 
-<p align="left">
+<p align="center">
   <a href="https://www.linkedin.com/in/rasyiqi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/rasyiqi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFD700" alt="Instagram"></a>
   <a href="https://x.com/HeyRasyiqi" target="_blank"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=FFD700" alt="X/Twitter"></a>
