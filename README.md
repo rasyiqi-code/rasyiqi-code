@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://github.com/rasyiqi-code">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=435&lines=Membangun+Solusi+Digital;Creative+Thinker;Selalu+Belajar+Hal+Baru" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Tech+Educator+&+Author;Menertawakan+Batasan,+Merayakan+Peluang" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,10 +12,20 @@
 
 ### 👨‍💻 Tentang Saya
 
-- 🏢 Saat ini berkreasi di **[@crediblemark-official](https://github.com/crediblemark-official)**
-- 💡 Fokus pada pengembangan aplikasi skalabel dan performa tinggi.
-- 📩 Hubungi via: [retaslintasbatas@gmail.com](mailto:retaslintasbatas@gmail.com)
-- 🐦 Sapa saya di Twitter/X: [@HeyrRasyiqi](https://twitter.com/HeyrRasyiqi)
+Halo! Saya **Rasyiqi**, seorang *Full-Stack Web & Application Developer*, praktisi teknologi, dan penulis buku asal Jawa Timur. Berkarier sejak 2015, saya telah membantu lebih dari 1.000 klien membangun solusi digital mereka.
+
+- 🏢 **Founder & Developer** di **[Crediblemark](https://www.linkedin.com/in/rasyiqi)** (induk dari [@crediblemark-official](https://github.com/crediblemark-official)).
+- 🎓 **Pendidikan**: Universitas Trunojoyo Madura (UTM).
+- 💡 **Keahlian**: Ekosistem *Front-End* & *Back-End*, spesialisasi WordPress & pengembangan sistem kustom.
+- 📚 **Penulis Buku**: *"Membangun Bisnis Kreatif dari Nol"* & *"Bisnis di Toko Online"*.
+- 🎯 **Filosofi**: *"Menertawakan Batasan, Merayakan Peluang"*.
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/rasyiqi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FFD700" alt="LinkedIn"></a>
+  <a href="https://www.instagram.com/rasyiqi/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=FFD700" alt="Instagram"></a>
+  <a href="https://x.com/HeyRasyiqi" target="_blank"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=x&logoColor=FFD700" alt="X/Twitter"></a>
+  <a href="mailto:retaslintasbatas@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Email-000000?style=for-the-badge&logo=gmail&logoColor=FFD700" alt="Email"></a>
+</p>
 
 ---
 
@@ -44,5 +54,5 @@
 
 ---
 <div align="center">
-  <i>"Menulis kode, memecahkan masalah, berkembang setiap hari."</i>
+  <i>"Menertawakan Batasan, Merayakan Peluang"</i>
 </div>
