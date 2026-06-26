@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontColor=FFD700&height=250&section=header&text=Hi,%20I'm%20Rasyiqi!&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Developer&descAlignY=55&descAlign=50" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&fontColor=FFD700&height=250&section=header&text=Hi,%20I'm%20Rasyiqi!&fontSize=70&fontAlignY=35&desc=AI%20Native%20Engineer&descAlignY=55&descAlign=50" alt="Header" />
 </div>
 
 <div align="center">
   <a href="https://github.com/rasyiqi-code">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Full-Stack+Web+Developer;Tech+Educator+&+Author;Laugh+at+Limits,+Celebrate+Opportunities" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=AI+Native+Engineer;Tech+Educator+&+Author;Laugh+at+Limits,+Celebrate+Opportunities" alt="Typing SVG" />
   </a>
 </div>
 
@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-Hello! I'm **Rasyiqi**, a *Full-Stack Web & Application Developer*, author & entrepreneur. Active since 2015, I have helped over 1,000 clients build their digital solutions.
+Hello! I'm **Rasyiqi**, an **AI-Native Engineer**, author, & entrepreneur. Rooted in a solid Full-Stack background, I craft seamless digital experiences—bridging intuitive Frontend aesthetics (UI/UX) with robust Backend architectures. Active since 2015, I have empowered over 1,000 clients to bring their digital visions to life.
 
 - 🏢 **Founder & Developer** at **[Crediblemark](https://www.linkedin.com/in/rasyiqi)** (parent of [@crediblemark-official](https://github.com/crediblemark-official)).
 - 💡 **Expertise**: *Front-End* & *Back-End* ecosystems, specializing in WordPress & custom system development.
